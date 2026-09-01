@@ -77,3 +77,71 @@ FP&A Insights & Decision Support
 - Use scenario-based forecasting to support planning under different growth assumptions.
 - Track COGS and operating expenses alongside revenue to protect operating margins.
 - Combine actuals, budget, forecast, and variance analysis to support executive decision-making.
+
+---
+
+## Power BI Dashboard Preview
+
+### Executive Overview
+![Executive Overview](PowerBI/screenshots/Executive%20Overview.jpeg)
+
+### P&L & Profitability
+![P&L Profitability](PowerBI/screenshots/P%26L%20Profitability.jpeg)
+
+### Revenue Forecast & Planning
+![Revenue Forecast](PowerBI/screenshots/Revenue%20Forecast.jpeg)
+
+### Executive FP&A Insights
+![Executive Insights](PowerBI/screenshots/Executive%20Insights.jpeg)
+
+---
+
+## Project Structure
+
+```text
+AquaTech-Enterprise-FP-A-Command-Center/
+│
+├── SQL/
+│   ├── 01_revenue_analysis.sql
+│   ├── 02_budget_variance.sql
+│   ├── 03_profitability_analysis.sql
+│   ├── 04_customer_analysis.sql
+│   ├── 05_forecast_scenario_analysis.sql
+│   └── README.md
+│
+├── Excel/
+│   ├── 01_financial_model.xlsx
+│   └── README.md
+│
+├── PowerBI/
+│   ├── screenshots/
+│   │   ├── Executive Overview.jpeg
+│   │   ├── P&L Profitability.jpeg
+│   │   ├── Revenue Forecast.jpeg
+│   │   └── Executive Insights.jpeg
+│   └── README.md
+│
+└── README.md
+
+---
+
+## Key FP&A Capabilities Demonstrated
+
+- Budget vs Actual analysis
+- Revenue and profitability analysis
+- Variance analysis and driver identification
+- Financial forecasting
+- Scenario planning
+- Executive KPI reporting
+- SQL-based financial analysis
+- Excel financial modeling
+- Power BI dashboard development
+- Business-focused management insights
+
+---
+
+## Conclusion
+
+The AquaTech FP&A Command Center demonstrates an end-to-end approach to financial planning and analysis, connecting data preparation, financial modeling, analytical reporting, forecasting, and executive decision support into a unified workflow.
+
+The project demonstrates how SQL, Excel, and Power BI can be combined to transform financial data into actionable insights for budgeting, performance monitoring, forecasting, and management decision-making.
